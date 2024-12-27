@@ -9,6 +9,7 @@ public class Runner : MonoBehaviour
     public Material material;
     public GameObject gameobject;
     public Transform trs;
+
     public Button AddRemove;
     public Button destroy;
     public Button worldAdd;
