@@ -1,11 +1,10 @@
 {
   "dependencies": {
     "com.scellecs.morpeh": {
-      "version": "https://github.com/scellecs/morpeh.git?path=Scellecs.Morpeh#2024.1.1-rc5",
+      "version": "file:../morpeh/Scellecs.Morpeh",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "9a3ede9fb2d911ada82eb15b6348e9af4a2bf72c"
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.burst": {
       "version": "1.8.18",
